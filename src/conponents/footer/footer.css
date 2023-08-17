@@ -1,0 +1,32 @@
+/* footer */
+
+.footer {
+	margin-top: auto;
+	padding: 60px 0 50px;
+	background-color: green;
+	color: #fff;
+}
+
+.footer__wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	row-gap: 27px;
+}
+
+.social {
+	display: flex;
+	column-gap: 30px;
+	align-items: center;
+
+}
+
+.social__item {
+	transition: opacity 0.2s ease-in;
+
+}
+
+.social__item:hover {
+	opacity: 0.8;
+}
+
