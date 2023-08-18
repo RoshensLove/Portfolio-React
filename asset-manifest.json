@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-React/App.js/static/css/main.5b1fa05d.css",
-    "main.js": "/Portfolio-React/App.js/static/js/main.e6cbb89c.js",
+    "main.js": "/Portfolio-React/App.js/static/js/main.191f027a.js",
     "static/js/787.28cb0dcd.chunk.js": "/Portfolio-React/App.js/static/js/787.28cb0dcd.chunk.js",
     "static/media/01-big.jpg": "/Portfolio-React/App.js/static/media/01-big.2d2303682cf01414ab6d.jpg",
     "static/media/Lease-cars.jpg": "/Portfolio-React/App.js/static/media/Lease-cars.538160929c8434d191da.jpg",
@@ -16,11 +16,11 @@
     "static/media/instagram.svg": "/Portfolio-React/App.js/static/media/instagram.8b3b665946b0683cedfeb527c42e3e14.svg",
     "index.html": "/Portfolio-React/App.js/index.html",
     "main.5b1fa05d.css.map": "/Portfolio-React/App.js/static/css/main.5b1fa05d.css.map",
-    "main.e6cbb89c.js.map": "/Portfolio-React/App.js/static/js/main.e6cbb89c.js.map",
+    "main.191f027a.js.map": "/Portfolio-React/App.js/static/js/main.191f027a.js.map",
     "787.28cb0dcd.chunk.js.map": "/Portfolio-React/App.js/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b1fa05d.css",
-    "static/js/main.e6cbb89c.js"
+    "static/js/main.191f027a.js"
   ]
 }
