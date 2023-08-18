@@ -13,7 +13,7 @@ import ScrollToTop from './utils/scrollToTop';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter basename="/Portfolio-React">
+      <Router basename="/Portfolio-React">
           <ScrollToTop/>
           <Navbar/>
           <Routes>
@@ -23,7 +23,7 @@ function App() {
             <Route path='/contacts' element={<Contacts/>}/>
           </Routes>
           <Footer/>
-      </BrowserRouter>
+      </Router>
     </div>
   );
 }
