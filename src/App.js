@@ -9,7 +9,6 @@ import Project from './pages/Project';
 import Navbar from './conponents/navbar/Navbar';
 import Footer from './conponents/footer/Footer';
 import ScrollToTop from './utils/scrollToTop';
-// qweqw
 
 function App() {
   return (
