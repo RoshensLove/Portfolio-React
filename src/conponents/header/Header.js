@@ -1,5 +1,6 @@
 import React from 'react'
 import './header.css'
+// import "../../../public/PDF_file/"
 
 export default function Header() {
   return (
@@ -9,7 +10,8 @@ export default function Header() {
               a frontend developer
               </h1>
               <p className="header__text">better than yesterday</p>
-              <a href="https://docs.google.com/document/d/1AOrDj06127qWI5ds7Ny-yNKI5C97bBMfrOEEp1z-njU/edit" target="_blank" className="btn">Download CV</a>
+              <a href="https://drive.google.com/file/d/1uCHmwotK5-XlXVNQEmfD9M_SatVMCZKv/view" target="_blank" className="btn">Download CV</a>
+              
           </div>
       </header>
   )
