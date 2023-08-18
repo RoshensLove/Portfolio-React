@@ -14,7 +14,7 @@ import ScrollToTop from './utils/scrollToTop';
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename='/Portfolio-React'>
           <ScrollToTop/>
           <Navbar/>
           <Routes>
