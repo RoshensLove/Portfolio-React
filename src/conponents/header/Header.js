@@ -1,6 +1,5 @@
 import React from 'react'
 import './header.css'
-// import "../../../public/PDF_file/"
 
 export default function Header() {
   return (
