@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Portfolio-React/App.js/static/css/main.5b1fa05d.css",
-    "main.js": "/Portfolio-React/App.js/static/js/main.e6cbb89c.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Portfolio-React/App.js/static/js/787.28cb0dcd.chunk.js",
-    "static/media/01-big.jpg": "/Portfolio-React/App.js/static/media/01-big.2d2303682cf01414ab6d.jpg",
-    "static/media/Lease-cars.jpg": "/Portfolio-React/App.js/static/media/Lease-cars.538160929c8434d191da.jpg",
-    "static/media/01.jpg": "/Portfolio-React/App.js/static/media/01.3a577d9149d4b91e6728.jpg",
-    "static/media/Pizza__App.jpg": "/Portfolio-React/App.js/static/media/Pizza__App.58e4cac485ba81e150f9.jpg",
-    "static/media/Portfolio.jpg": "/Portfolio-React/App.js/static/media/Portfolio.e5b44a12f866908dcbb1.jpg",
-    "static/media/ToDo_App.jpg": "/Portfolio-React/App.js/static/media/ToDo_App.32847f99ec102b63dbd2.jpg",
-    "static/media/Random-Joke__API.jpg": "/Portfolio-React/App.js/static/media/Random-Joke__API.173d9e7f14bd8634d5cc.jpg",
-    "static/media/linked-in.svg": "/Portfolio-React/App.js/static/media/linked-in.32afdf05aa8ec984a9dc3f849de6c5cc.svg",
-    "static/media/telegram.svg": "/Portfolio-React/App.js/static/media/telegram.a1b1a5679b0134b33cf0713333b31598.svg",
-    "static/media/github.svg": "/Portfolio-React/App.js/static/media/github.0fc03d727e9dd7072e1de09aed2be708.svg",
-    "static/media/instagram.svg": "/Portfolio-React/App.js/static/media/instagram.8b3b665946b0683cedfeb527c42e3e14.svg",
-    "index.html": "/Portfolio-React/App.js/index.html",
-    "main.5b1fa05d.css.map": "/Portfolio-React/App.js/static/css/main.5b1fa05d.css.map",
-    "main.e6cbb89c.js.map": "/Portfolio-React/App.js/static/js/main.e6cbb89c.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Portfolio-React/App.js/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Portfolio-React/static/css/main.5b1fa05d.css",
+    "main.js": "/Portfolio-React/static/js/main.215437bb.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Portfolio-React/static/js/787.28cb0dcd.chunk.js",
+    "static/media/01-big.jpg": "/Portfolio-React/static/media/01-big.2d2303682cf01414ab6d.jpg",
+    "static/media/Lease-cars.jpg": "/Portfolio-React/static/media/Lease-cars.538160929c8434d191da.jpg",
+    "static/media/01.jpg": "/Portfolio-React/static/media/01.3a577d9149d4b91e6728.jpg",
+    "static/media/Pizza__App.jpg": "/Portfolio-React/static/media/Pizza__App.58e4cac485ba81e150f9.jpg",
+    "static/media/Portfolio.jpg": "/Portfolio-React/static/media/Portfolio.e5b44a12f866908dcbb1.jpg",
+    "static/media/ToDo_App.jpg": "/Portfolio-React/static/media/ToDo_App.32847f99ec102b63dbd2.jpg",
+    "static/media/Random-Joke__API.jpg": "/Portfolio-React/static/media/Random-Joke__API.173d9e7f14bd8634d5cc.jpg",
+    "static/media/linked-in.svg": "/Portfolio-React/static/media/linked-in.32afdf05aa8ec984a9dc3f849de6c5cc.svg",
+    "static/media/telegram.svg": "/Portfolio-React/static/media/telegram.a1b1a5679b0134b33cf0713333b31598.svg",
+    "static/media/github.svg": "/Portfolio-React/static/media/github.0fc03d727e9dd7072e1de09aed2be708.svg",
+    "static/media/instagram.svg": "/Portfolio-React/static/media/instagram.8b3b665946b0683cedfeb527c42e3e14.svg",
+    "index.html": "/Portfolio-React/index.html",
+    "main.5b1fa05d.css.map": "/Portfolio-React/static/css/main.5b1fa05d.css.map",
+    "main.215437bb.js.map": "/Portfolio-React/static/js/main.215437bb.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Portfolio-React/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b1fa05d.css",
-    "static/js/main.e6cbb89c.js"
+    "static/js/main.215437bb.js"
   ]
 }
