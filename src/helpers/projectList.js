@@ -20,7 +20,8 @@ const projects = [
     {
         id: 2,
         title:'Pizza App',
-        skills: 'HTML, CSS, TS, React',
+        skills: 'HTML, CSS, TypeScript, React',
+        desc: 'In this project, the focus was on TypeScript and React',
         img: pizza_app,
         bigImg: pizza_app,
         gitHubLink: 'https://github.com/RoshensLove/Pizza-App',
