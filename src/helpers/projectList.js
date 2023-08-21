@@ -55,7 +55,7 @@ const projects = [
         img: lease_cars,
         bigImg: lease_cars,
         gitHubLink: 'https://github.com/RoshensLove/Lease-cars',
-        gitPageLink: 'https://roshenslove.github.io/Lease-cars/index.html',
+        gitPageLink: 'https://lease-cars-three.vercel.app/',
     }
 ];
 
