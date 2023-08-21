@@ -8,7 +8,7 @@ export default function Main() {
               <ul className="main-list">
                   <li className="main-list__item">
                       <h2 className="main__title">Frontend</h2>
-                      <p className="main__text">HTML, CSS, JavaScript, TypeScript, ReactJS, NPM, BootStrap, TailwindCSS, Git</p>
+                      <p className="main__text">HTML, CSS, JavaScript, TypeScript, ReactJS, NPM, BootStrap, Git</p>
                   </li>
               </ul>
               <ul className="main-list">
