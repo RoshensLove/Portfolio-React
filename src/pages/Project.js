@@ -25,7 +25,7 @@ const Project = () => {
                       <p>{project.skills}</p>
                     </div>
                     
-                    <LiveDemo link={project.gitPageLink}/>
+                    <LiveDemo link={project.liveDemo}/>
                     <BtnGitHub link={project.gitHubLink}/>
                 </div>
             </div>
