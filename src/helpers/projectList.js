@@ -13,7 +13,7 @@ const projects = [
         img: random_joke,
         bigImg: random_joke,
         gitHubLink: 'https://github.com/RoshensLove/Random-Joke__API',
-        gitPageLink: 'https://roshenslove.github.io/Random-Joke__API/',
+        liveDemo: 'https://roshenslove.github.io/Random-Joke__API/',
     },
     {
         id: 2,
@@ -23,7 +23,7 @@ const projects = [
         img: pizza_app,
         bigImg: pizza_app,
         gitHubLink: 'https://github.com/RoshensLove/Pizza-App',
-        gitPageLink: 'https://pizza-app-lemon.vercel.app/',
+        liveDemo: 'https://pizza-app-lemon.vercel.app/',
     },
     {
         id: 3,
@@ -33,7 +33,7 @@ const projects = [
         img: toDo_App,
         bigImg: toDo_App,
         gitHubLink: 'https://github.com/RoshensLove/todo',
-        gitPageLink: 'https://roshenslove.github.io/todo/',
+        liveDemo: 'https://roshenslove.github.io/todo/',
     },
     {
         id: 4,
@@ -43,7 +43,7 @@ const projects = [
         img: portfolio,
         bigImg: portfolio,
         gitHubLink: 'https://github.com/RoshensLove/Protfolio-Practice',
-        gitPageLink: 'https://roshenslove.github.io/Protfolio-Practice/',
+        liveDemo: 'https://roshenslove.github.io/Protfolio-Practice/',
     },
     {
         id: 5,
@@ -53,7 +53,7 @@ const projects = [
         img: lease_cars,
         bigImg: lease_cars,
         gitHubLink: 'https://github.com/RoshensLove/Lease-cars',
-        gitPageLink: 'https://lease-cars-three.vercel.app/',
+        liveDemo: 'https://lease-cars-three.vercel.app/',
     }
 ];
 
