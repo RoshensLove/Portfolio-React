@@ -1,5 +1,3 @@
-import proj_01Big_img from "./../img/projects/01-big.jpg";
-import proj_01_img from "./../img/projects/01.jpg";
 import random_joke from "./../img/projects/Random-Joke__API.jpg"
 import pizza_app from "./../img/projects/Pizza__App.jpg"
 import toDo_App from "./../img/projects/ToDo_App.jpg"

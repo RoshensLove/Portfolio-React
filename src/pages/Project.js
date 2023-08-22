@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { useParams } from 'react-router-dom';
 import BtnGitHub from './../conponents/btnGitHub/BtnGitHub';
-import BtnGitPage from '../conponents/btnGitPages/BtnGitPages';
+import LiveDemo from '../conponents/DemoPages/LiveDemo.js';
 import { projects } from '../helpers/projectList';
 
 
@@ -25,7 +25,7 @@ const Project = () => {
                       <p>{project.skills}</p>
                     </div>
                     
-                    <BtnGitPage link={project.gitPageLink}/>
+                    <LiveDemo link={project.gitPageLink}/>
                     <BtnGitHub link={project.gitHubLink}/>
                 </div>
             </div>

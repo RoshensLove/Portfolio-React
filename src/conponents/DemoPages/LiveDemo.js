@@ -1,16 +1,15 @@
 import React, { Component } from 'react'
-import github from './../../img/icons/github.svg';
+import output from './../../img/icons/output.svg';
 
 
-import './../btnGitHub/btnGitHub.css';
-
+import './../DemoPages/LiveDemo.css'
 
 const BtnGitPage = ({link}) => {
     return (
       <div>
           <a href={link} rel="noreferrer" target='_blank' className="btn-outline">
-              <img src={github} alt="github-img"/>
-              GitHub page
+              <img src={output} alt="github-img"/>
+              Live Demo
           </a>
       </div>
       );
