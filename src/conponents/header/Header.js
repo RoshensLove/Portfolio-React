@@ -9,7 +9,7 @@ export default function Header() {
               a frontend developer
               </h1>
               <p className="header__text">better than yesterday</p>
-              <a href="https://drive.google.com/file/d/1FOK4uoWVizDsFIqYOaDY7E4m8clSFwdC/view?usp=sharing" target="_blank" className="btn">Download CV</a>
+              <a href="https://drive.google.com/file/d/1sDmqCIjxyIZ-lwvWboxO0eoj5cg_LXX6/view?usp=sharing" target="_blank" className="btn">Download CV</a>
               
           </div>
       </header>
