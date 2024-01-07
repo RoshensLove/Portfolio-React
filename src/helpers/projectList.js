@@ -54,6 +54,26 @@ const projects = [
         bigImg: lease_cars,
         gitHubLink: 'https://github.com/RoshensLove/Lease-cars',
         liveDemo: 'https://lease-cars-three.vercel.app/',
+    },
+    {
+        id: 6,
+        title:'tailwind-app',
+        skills: 'HTML, CSS, JS, Flexbox, Greed',
+        desc: 'Worked with swiper, HTML, CSS, JS adaptive, cross-browser. Focused on layout and JS.',
+        img: lease_cars,
+        bigImg: lease_cars,
+        gitHubLink: 'https://github.com/RoshensLove/Tailwind_App',
+        liveDemo: 'https://tailwind-app-kappa.vercel.app/',
+    },
+    {
+        id: 7,
+        title:'tailwind-app',
+        skills: 'HTML, CSS, JS, Flexbox, Greed',
+        desc: 'Worked with swiper, HTML, CSS, JS adaptive, cross-browser. Focused on layout and JS.',
+        img: lease_cars,
+        bigImg: lease_cars,
+        gitHubLink: 'https://github.com/RoshensLove/Bootstrap_Test_app',
+        liveDemo: 'https://bootstrap-test-app.vercel.app/',
     }
 ];
 
