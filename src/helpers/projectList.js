@@ -3,6 +3,8 @@ import pizza_app from "./../img/projects/Pizza__App.jpg"
 import toDo_App from "./../img/projects/ToDo_App.jpg"
 import portfolio from "./../img/projects/Portfolio.jpg"
 import lease_cars from "./../img/projects/Lease-cars.jpg"
+import bootstrap from "./../img/projects/bootstrap_app.png"
+import tailwind from "./../img/projects/tailwind.png"
 
 const projects = [
     {
@@ -58,20 +60,20 @@ const projects = [
     {
         id: 6,
         title:'tailwind-app',
-        skills: 'HTML, CSS, JS, Flexbox, Greed',
-        desc: 'Worked with swiper, HTML, CSS, JS adaptive, cross-browser. Focused on layout and JS.',
-        img: lease_cars,
-        bigImg: lease_cars,
+        skills: 'HTML, CSS, React, Tailwind',
+        desc: 'An initial project that used HTML, CSS, React and Tailwind. In this project, the focus was on bootstrap',
+        img: tailwind,
+        bigImg: tailwind,
         gitHubLink: 'https://github.com/RoshensLove/Tailwind_App',
         liveDemo: 'https://tailwind-app-kappa.vercel.app/',
     },
     {
         id: 7,
-        title:'tailwind-app',
-        skills: 'HTML, CSS, JS, Flexbox, Greed',
-        desc: 'Worked with swiper, HTML, CSS, JS adaptive, cross-browser. Focused on layout and JS.',
-        img: lease_cars,
-        bigImg: lease_cars,
+        title:'bootstrap-app',
+        skills: 'HTML, CSS, JS, Bootstrap',
+        desc: 'Initial project that used HTML CSS JS and bootstrap. In this project, the focus was on bootstrap',
+        img: bootstrap,
+        bigImg: bootstrap,
         gitHubLink: 'https://github.com/RoshensLove/Bootstrap_Test_app',
         liveDemo: 'https://bootstrap-test-app.vercel.app/',
     }
